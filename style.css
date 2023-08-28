@@ -140,15 +140,22 @@ fieldset legend {
 .col-3>div:nth-child(1) {
     width: 100%;
 }
-
+.date-membership{
+    gap: 0;
+}
+.date-membership legend{
+    margin-bottom: 24px;
+}
 .firt-menbership {
     color: #535971;
     font-family: 'Staatliches', cursive;
     font-size: 20px;
     font-weight: 400;
     line-height: 34px;
+    margin: 16px 0 8px;
 
 }
+
 
 footer {
     background: #535971;
