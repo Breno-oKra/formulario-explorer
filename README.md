@@ -1,20 +1,21 @@
 <h1 align="center"> challenge 3 recreating layout from Form Explorer
 </h1>
 
-## 🚀 Tecnologias
+## 🚀 Techniques
 
 this project was developed with technology:
 
 - HTML
 - CSS
 
-## PRINCIPAL APRENDIZADO
+## learning main
 more in-depth styling with nth-child
 
 - techniques of element + element
 - base64 images in text format
 - tecnicas de ::before e ::after
-## sobre
+
+## about
 project developed on explorer of rocketseat
 
 ## 💻 Photos Project 
