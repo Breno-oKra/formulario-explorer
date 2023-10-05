@@ -1,28 +1,28 @@
-<h1 align="center">Desafio 3 recriando layout do Formulario Explorer
+<h1 align="center"> challenge 3 recreating layout from Form Explorer
 </h1>
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+this project was developed with technology:
 
 - HTML
 - CSS
 
 ## PRINCIPAL APRENDIZADO
-estilização mais aprofundada com nth-child
+more in-depth styling with nth-child
 
-- tecnicas de elemento + elemento
-- base64 imagens em formato de texto
+- techniques of element + element
+- base64 images in text format
 - tecnicas de ::before e ::after
 ## sobre
-projeto desenvolvido no explorer da rocketseat
+project developed on explorer of rocketseat
 
-## 💻 Projeto Fotos
+## 💻 Photos Project 
 
 <p align="center">
-<p>projeto do explorer</p>
+<p>project of explorer</p>
  <img width="600px" alt="tema dark escuro" src="./images/project.png" />
- <p>desafio de recriar novo formulario</p>
+ <p>challenge of recreate a new form</p>
  <img width="600px" alt="tema dark escuro" src="./images/project-recriado.png" />
 </p>
 
